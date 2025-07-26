@@ -38,7 +38,7 @@ You can then access petclinic here: [http://localhost:8080/](http://localhost:80
 Our issue tracker is available here: https://github.com/spring-petclinic/spring-framework-petclinic/issues
 
 
-## Database configuration
+## Database configuration 
 
 In its default configuration, Petclinic uses an in-memory database (H2) which gets populated at startup with data.
 
